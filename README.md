@@ -16,5 +16,6 @@ When you've completed this project, you'll have an application that can be train
 
 First up is importing the packages you'll need. It's good practice to keep all the imports at the beginning of your code. As you work through this notebook and find you need to import a package, make sure to add the import up here.
 
-#This Repo
+# This Repo
+
 Submission of the project requires three files - a HTML file with the Jupyter Notebook part of the project (here as Image Classifier Project.html), and the train.py and predict.py files. Feel free to use the code as a way to get started with the project! Don't plagiarize though!
